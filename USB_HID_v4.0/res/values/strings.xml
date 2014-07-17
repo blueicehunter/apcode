@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">土壤检测程序</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnGetInfo">连接检测设备</string>
+    <string name="title_activity_recv">接收数据</string>
+
+</resources>
